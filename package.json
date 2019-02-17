@@ -1,0 +1,13 @@
+{
+  "name": "travisci-docker-puppeteer-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jonas Pohren <jonaspohren@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "1.10.0"
+  }
+}
